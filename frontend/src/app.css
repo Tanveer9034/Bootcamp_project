@@ -1,0 +1,5 @@
+.bg-mg{
+    background: #667eea;
+    background: linear-gradient(90deg, #667eea 80% ,#764ba2 100%);
+    min-height: 10px;
+}
